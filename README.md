@@ -1,4 +1,4 @@
-#jduimage
+# jduimage
 
 Simple opencv interface to simplify image processing.
 
