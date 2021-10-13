@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jduimage",
-    version="0.1",
+    version="0.1.1",
     scripts=["bin/jduimage"],
     author="Jean Demeusy",
     author_email="dev.jdu@gmail.com",
