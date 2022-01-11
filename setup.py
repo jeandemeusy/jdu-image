@@ -13,7 +13,7 @@ setuptools.setup(
     description="Simple opencv interface to simplify image processing.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/jeandemeusy/jdu_image",
+    url="https://github.com/jeandemeusy/jdu-image",
     packages=["jduimage"],
     classifiers=[
         "Development Status :: 4 - Beta",
